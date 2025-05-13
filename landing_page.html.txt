@@ -1,0 +1,9 @@
+<html>
+<body>
+    <h2>Get Exclusive Deals</h2>
+    <form>
+        <input type="email" placeholder="Enter your email">
+        <button type="submit">Subscribe</button>
+    </form>
+</body>
+</html>

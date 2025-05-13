@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Affiliate Marketing Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Grow Your Affiliate Business</h1>
+    <p>Unlock high-converting affiliate strategies.</p>
+</body>
+</html>

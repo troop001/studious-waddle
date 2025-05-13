@@ -1,0 +1,5 @@
+# Email Automation Setup
+✅ Use ConvertKit or Mailchimp
+✅ Set up a welcome email sequence
+✅ Add follow-up emails for product recommendations
+✅ Automate responses based on user actions

@@ -1,0 +1,16 @@
+AffiliateMarketing_Automation/
+│── Website/
+│   ├── index.html
+│   ├── styles.css
+│   ├── scripts.js
+│── Email_Automation/
+│   ├── email_setup.md
+│   ├── autoresponder_config.json
+│── Marketing_Funnel/
+│   ├── optin_form.html
+│   ├── landing_page.html
+│── Traffic_Generation/
+│   ├── ads_config.md
+│── Documentation/
+│   ├── business_model.md
+│   ├── scaling_strategy.md
